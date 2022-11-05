@@ -5,7 +5,7 @@ La Wiki tendrá un formato colaborativo.
 
 ### Diagrama de Arquitectura
 
-![diagrama](./documents/Diagrama-wiki.png)
+![diagrama](./Documents/Diagrama-wiki.png)
 
 #### Collection de Postman
 
